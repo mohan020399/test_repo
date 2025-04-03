@@ -1,0 +1,1 @@
+create temp table account_test as select * from utl.account;
